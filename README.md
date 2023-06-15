@@ -21,15 +21,6 @@ I'm a React-Native developer...
 **Server:** Firebase
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  expo-cli start --tunnel
-```
-
-
 ## Run Locally
 
 Clone the project
@@ -54,6 +45,15 @@ Start the server
 
 ```bash
   expo-cli start --tunnel
+```
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  expo publish
 ```
 
 
@@ -87,5 +87,4 @@ Start the server
 ## Authors
 
 - [@piug-07](https://www.github.com/piug-07)
-
 
